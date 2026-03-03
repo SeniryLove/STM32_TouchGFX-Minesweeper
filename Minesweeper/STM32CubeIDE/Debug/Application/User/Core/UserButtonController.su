@@ -1,0 +1,5 @@
+ButtonController.hpp:48:18:virtual void touchgfx::ButtonController::reset()	0	static
+UserButtonController.cpp:9:6:virtual void UserButtonController::init()	0	static
+UserButtonController.cpp:13:6:virtual bool UserButtonController::sample(uint8_t&)	0	static
+UserButtonController.hpp:6:7:UserButtonController::~UserButtonController()	0	static
+UserButtonController.hpp:6:7:virtual UserButtonController::~UserButtonController()	8	static
